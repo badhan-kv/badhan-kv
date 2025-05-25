@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @badhan-kv aka Khushaldas (Khushal) Badhan.
-- 👀 I’m interested in mechanical engineering, mechatronics, optp-mechanics, opto-mechatronics, precision systems, numerical modeling for physical systems, Python
-- 🌱 I’m currently learning control systems, precision engineering
-- 💞️ I’m looking to collaborate on nothing as of now.
+- 👀 I’m interested in reinforcement learning, neural networks, mechatronics, optp-mechanics, precision systems, numerical modeling for physical systems, mechanical engineering, Python
+- 🌱 I’m currently working in reinforcement learning, specifically policy optimisation methods for high precision assembly production automation.
+- 💞️ I’m looking to meet and collaborate with people, researchers, engineers, companies and organisations working in reinforcement learning for physical systems.
 - 📫 How to reach me badhan.kv@gmail.com
 - ⚡ Hobbies: Climbing/ bouldering, [hiking](https://bit.ly/46XzDR8), cooking, reading
 

@@ -2,7 +2,7 @@
 - 👀 I’m interested in reinforcement learning, neural networks, mechatronics, optp-mechanics, precision systems, numerical modeling for physical systems, mechanical engineering, Python
 - 🌱 I’m currently working in reinforcement learning for high precision assembly production automation.
 - 💞️ I’m looking to meet and collaborate with people, researchers, engineers, companies and organisations working in reinforcement learning for physical systems.
-- 📫 How to reach me badhan.kv@gmail.com, [LinkedIn](https://linkedin.com/in/badhan-kv)
+- 📫 How to reach me badhan.kv@protonmail.com, [LinkedIn](https://linkedin.com/in/badhan-kv)
 - ⚡ Hobbies: Climbing/ bouldering, hiking, cooking, reading
 
 <!---
